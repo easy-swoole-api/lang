@@ -1,5 +1,5 @@
 {
-    "name": "easy-api/lang",
+    "name": "easyapi/lang",
     "autoload": {
         "psr-4": {
             "EasyApi\\Lang\\": "src/"
